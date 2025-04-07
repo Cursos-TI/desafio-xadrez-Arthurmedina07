@@ -31,8 +31,26 @@ rainha++;
 
 
 
+// Movimento do cavalo Baixo, baixo, esquerda
+printf("movimento do cavalo\n");
+ 
+int baixo = 2;
+int esquerda = 1;
+int i, j;
 
+for(i = 1; i <= baixo; i++ ){
 
+printf("baixo\n");
+}
+
+int contador = 0;
+
+while(contador < esquerda){
+
+printf("esquerda \n");
+contador++;
+
+}
 
 
 
